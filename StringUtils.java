@@ -1,1 +1,1 @@
-This file contains all string functions
+********This file contains all string functions
